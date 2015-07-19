@@ -1,0 +1,11 @@
+c:\users\npasumarthy\documents\visual studio 2013\Projects\AngelHack\AngelHack\bin\Debug\AngelHack.exe.config
+c:\users\npasumarthy\documents\visual studio 2013\Projects\AngelHack\AngelHack\bin\Debug\AngelHack.exe
+c:\users\npasumarthy\documents\visual studio 2013\Projects\AngelHack\AngelHack\bin\Debug\AngelHack.pdb
+c:\users\npasumarthy\documents\visual studio 2013\Projects\AngelHack\AngelHack\bin\Debug\NReco.VideoConverter.dll
+c:\users\npasumarthy\documents\visual studio 2013\Projects\AngelHack\AngelHack\bin\Debug\NReco.VideoConverter.xml
+c:\users\npasumarthy\documents\visual studio 2013\Projects\AngelHack\AngelHack\obj\Debug\AngelHack.csprojResolveAssemblyReference.cache
+c:\users\npasumarthy\documents\visual studio 2013\Projects\AngelHack\AngelHack\obj\Debug\AngelHack.exe
+c:\users\npasumarthy\documents\visual studio 2013\Projects\AngelHack\AngelHack\obj\Debug\AngelHack.pdb
+c:\users\npasumarthy\documents\visual studio 2013\Projects\AngelHack\AngelHack\bin\Debug\Newtonsoft.Json.dll
+c:\users\npasumarthy\documents\visual studio 2013\Projects\AngelHack\AngelHack\bin\Debug\Newtonsoft.Json.pdb
+c:\users\npasumarthy\documents\visual studio 2013\Projects\AngelHack\AngelHack\bin\Debug\Newtonsoft.Json.xml
